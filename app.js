@@ -3,7 +3,7 @@ const winningText = document.querySelector("#victory-message");
 const startButton = document.querySelector("#new-game-button");
 
 const visibleClass = "visible";
-const flipTimeout = 700;
+const flipTimeout = 650;
 
 const cardElements = ["🍓", "🍉", "🍌", "🍏", "🍒", "🍇"];
 const cardAmount = 12;
